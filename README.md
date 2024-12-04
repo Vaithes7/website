@@ -1,5 +1,5 @@
 # Ex.07 Restaurant Website
-# Date:
+# Date:15.11.2024
 # AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
 
@@ -28,7 +28,8 @@ Publish the website in the given URL.
 # PROGRAM:
 
 1.HOME.HTML
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
